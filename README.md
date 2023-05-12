@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+## React: desenvolvendo em React Router com JavaScript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Olá, mundo!
 
-## Available Scripts
+O Olá, Mundo! é um site que apresenta uma descrição pessoal e uma lista de postagens de assuntos relacionados à tecnologia.
 
-In the project directory, you can run:
+Os posts são listados de forma dinâmica, a partir de um arquivo em formato json.
 
-### `npm start`
+São também utilizadas boas práticas, procurando componentizar itens que podem ser reaproveitados na aplicação, tais como botões e cards, evitando repetição de código.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Este projeto foi desenvolvido no curso desenvolvendo em React Router com JavaScript da Alura.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ✔️ Técnicas e tecnologias utilizadas
 
-### `npm test`
+- `React`
+- `Hooks do React-Router-Dom, como useLocation e useParams`
+- `React-Markdow`
+- `UseNavigate`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Demonstração
 
-### `npm run build`
+![Image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Y5N2Q0NTMwNmY0MDEyZTU1YjI0YjU2MmJmMDc0ODhmNzhkOTcxYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/lR1YppOHPrXuq5fNFy/giphy.gif)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠️ Abrir e rodar o projeto
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Para abrir e rodar o projeto, execute npm i para instalar as dependências e npm start para inicar o projeto.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Depois, acesse <a href="http://localhost:3000/">http://localhost:3000/</a> no seu navegador.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Layout no Figma: <a href="Figma">https://www.figma.com/file/nDTrIQxTu6aldQG0o0iAbj/Ol%C3%A1%2C-Mundo!---Projeto-React%3A-router?type=design&node-id=38-739&t=msPA1VV7L211t34X-0</a>
